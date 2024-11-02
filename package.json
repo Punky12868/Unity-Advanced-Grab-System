@@ -1,0 +1,18 @@
+{
+    "name": "com.punky12868.advancedgrabsystem",
+    "version": "1.0.0",
+    "displayName": "Grab System",
+    "description": "An advanced grab system for Unity.",
+    "unity": "2020.3",
+    "keywords": [
+      "grab",
+      "interaction",
+      "physics"
+    ],
+    "author": {
+      "name": "Punky12868",
+      "email": "diegob12868@gmail.com",
+      "url": "https://github.com/Punky12868"
+    }
+  }
+  
