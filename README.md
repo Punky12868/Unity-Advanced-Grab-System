@@ -20,13 +20,6 @@ This repository contains an advanced grabbing system that allows players to inte
 2. Open your Unity project.
 3. Import the package by simply dragging it into the assets folder, or go navigating to `Assets` > `Import Package` > `Custom Package` and selecting the downloaded `.unitypackage` file.
 
-#### Alternatively, you can add the package from git URL
-
-1. Open your Unity project.
-2. Go to `Window` > `Package Manager`.
-3. In the Package Manager, click on the `+` icon in the top-left corner and select `Add package from git URL...`.
-4. Enter the Git URL of the repository: `https://github.com/Punky12868/Unity-Advanced-Grab-System.git` and click `Add`.
-
 ## Setup
 
 To set up the Grab System, follow these steps:
