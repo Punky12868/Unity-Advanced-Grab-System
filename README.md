@@ -21,8 +21,8 @@ This repository contains an advanced grabbing system that allows players to inte
 
 ## Setup
 
-To set up the Grab System just attatch the `Grab System` to you player and place your desired camera on the `Camera Transform` field.
-In case of using object rotation, just add to your camera controller a way to disable mouse inputs with the `IsRotating` label.
+- To set up the Grab System just attatch the `Grab System` to you player and place your desired camera on the `Camera Transform` field.
+- In case of using object rotation, just add to your camera controller a way to disable mouse inputs with the `IsRotating` label.
 
 ## License
 
